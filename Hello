@@ -1,1 +1,36 @@
-ehh
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ALX PORTFOLIO PROJECT</title>
+    <link rel="stylesheet" href="all.min.css">
+    <link rel="stylesheet" href="folio.css">
+</head>
+<body>
+    <div class="container">
+        <nav>
+            <div class="logo">Vitaefolio <b>.</b></div>
+            <ul class="navitems">
+                <li><a href="#">Home</a></li>
+                <li><a href="#">About us</a></li>
+                <li><a href="#">Contact</a></li>
+                <li><a href="#">Services</a></li>
+            </ul>
+        </nav>
+
+    <div class="wrapper">
+        <div class="close">
+            <span class="top">Hello</span>
+            <h1>I'm <span class="multitext"> a Coder</span></h1>
+            <p>Excellent reputation for resolving problems, improving customer satisfaction, and driving overall operational  improvements is what I do</p>
+            <div class="btns">
+                <button>download CV</button>
+                <button>hire me</button>
+            </div>
+        </div>
+    </div>
+    </div>
+</body>
+</html>
